@@ -1,9 +1,9 @@
 
 # Ioana Leuştean
 
-**Professor**  
-[Department of Computer Science](https://cs.unibuc.ro/) | [Faculty of Mathematics and Computer Science](https://fmi.unibuc.ro/)  
-[University of Bucharest](https://unibuc.ro/), Romania
+**Professor**, [Faculty of Mathematics and Computer Science](https://fmi.unibuc.ro/)
+
+[University of Bucharest](https://unibuc.ro/)
 
 📬 **Email:** `ioana.leustean@unibuc.ro` 
 🌐 **Webpage:** [cs.unibuc.ro/~ileustean](https://cs.unibuc.ro/~ileustean/) 
