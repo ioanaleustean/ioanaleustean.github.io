@@ -1,5 +1,9 @@
 
-# Ioana Leuştean
+---
+layout: home
+---
+
+<img src="IL.jpg" alt="Ioana Leuştean" style="width: 170px; border-radius: 8px; float: right; margin-left: 20px;">
 
 **Professor**, [Faculty of Mathematics and Computer Science](https://fmi.unibuc.ro/)
 
