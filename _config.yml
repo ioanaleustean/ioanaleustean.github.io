@@ -1,4 +1,5 @@
 title: "Ioana Leuştean"
+author: "Ioana Leuştean"
 description: >
   Professor <br>
   Faculty of Mathematics and Computer Science <br>
@@ -6,9 +7,5 @@ description: >
 
 theme: minima
 
-# Setări opționale pentru Minima
-header_pages:
-  - index.md
-  - teaching.md
-  - publications.md
+
 
