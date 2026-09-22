@@ -24,7 +24,7 @@
 - I. Leuştean, B. Macovei. Training as inference: Using hybrid modal logic for specifying neural networks. Journal of Logical and Algebraic Methods in Programming, Volume 151, 2026, https://doi.org/10.1016/j.jlamp.2026.101152.
 - I. Leuştean, B. Macovei. A Hybrid Many-Sorted Modal Logic with Nominal Terms. In: Fahrenberg, U., Fussner, W., Santocanale, L. (eds) Relational and Algebraic Methods in Computer Science. RAMICS 2026. Lecture Notes in Computer Science, vol 16526. Springer, Cham. https://doi.org/10.1007/978-3-032-22469-9_14
 
-[**Full List of Publications**](./publications.md). See also
+[**Full List of Publications**](./publication.md). See also
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1884--6456-green?logo=orcid)](https://orcid.org/0000-0002-1884-6456)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.ro/citations?user=i_cBamgAAAAJ&hl=en&oi=ao)
