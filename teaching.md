@@ -1,6 +1,6 @@
 [← Back to Home](./index.html)
 
-### 📚 Teaching
+### Teaching
 Ioana Leuştean
 
 ---
