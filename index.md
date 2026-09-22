@@ -1,5 +1,5 @@
 
-# Prof. Ioana Leuştean
+# Ioana Leuştean
 
 **Professor**  
 [Department of Computer Science](https://cs.unibuc.ro/) | [Faculty of Mathematics and Computer Science](https://fmi.unibuc.ro/)  
