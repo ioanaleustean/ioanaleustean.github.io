@@ -1,5 +1,5 @@
 
-# Prof. Dr. Ioana Leuştean
+# Prof. Ioana Leuştean
 
 **Professor**  
 [Department of Computer Science](https://cs.unibuc.ro/) | [Faculty of Mathematics and Computer Science](https://fmi.unibuc.ro/)  
@@ -29,6 +29,8 @@ My research spans non-classical logics, algebraic logic, formal verification, an
 
 ---
 
+[![CV PDF](https://img.shields.io/badge/Download_CV-PDF-red?logo=adobeacrobatreader)](./CV.pdf)
+
 ## Advising & Research Team
 
 ### Current PhD Students
@@ -53,13 +55,13 @@ My research spans non-classical logics, algebraic logic, formal verification, an
 
 ## Teaching
 
-I teach undergraduate and graduate courses at the Faculty of Mathematics and Computer Science[cite: 1, 2]:
-- **Special Topics in Logic and Security** *(Master's)*[cite: 1, 2]
-- **Implementation of Concurrent Systems in Programming Languages** *(Master's)*[cite: 1, 2]
-- **Declarative Programming** *(Undergraduate)*[cite: 1, 2]
-- **Logic Programming** *(Undergraduate)*[cite: 1, 2]
-- **Mathematical and Computational Logic** *(Undergraduate)*[cite: 1, 2]
-- **Web Techniques** *(Undergraduate)*[cite: 1, 2]
+I teach undergraduate and graduate courses at the Faculty of Mathematics and Computer Science:
+- **Special Topics in Logic and Security** *(Master's)*
+- **Implementation of Concurrent Systems in Programming Languages** *(Master's)*
+- **Declarative Programming** *(Undergraduate)*
+- **Logic Programming** *(Undergraduate)*
+- **Mathematical and Computational Logic** *(Undergraduate)*
+- **Web Techniques** *(Undergraduate)*
 
 ---
 
