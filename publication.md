@@ -1,16 +1,19 @@
 
 [← Back to Home](./index.html)
 
-# Publications — Prof. Ioana Leuştean
+### Publications
+Ioana Leuştean
 
-### Handbook Chapters & Collections
+---
+
+#### Handbook Chapters & Collections
 1. **S. Lapenta, I. Leuştean**, *A general view on normal form theorems for Łukasiewicz logic with product*, Concepts of Proof in Mathematics, Philosophy and Computer Science, Ontos Mathematical Logic 6, Walter de Gruyter, 2016[cite: 1, 2].
 2. **A. Di Nola, I. Leuştean**, *Łukasiewicz logic and MV-algebras*, Handbook of Mathematical Fuzzy Logic (vol. 2), Studies in Logic 37, College Publications, London, pp. 1–102, 2011[cite: 1, 2].
 3. **A. Di Nola, G. Georgescu, I. Leuştean**, *States on Perfect MV-algebras*, Discovering the World With Fuzzy Logic, Physica, Heidelberg, pp. 105–125, 2000[cite: 1, 2].
 
----
 
-### Selected Journal Papers
+
+#### Selected Journal Papers
 - **N. Moangă, I. Leuştean, T.F. Şerbănuţă**, *Many-Sorted Hybrid Modal Languages*, *JLAMP*, 120, 100644, 2021[cite: 1, 2].
 - **N. Moangă, I. Leuştean, T.F. Şerbănuţă**, *A many-sorted polyadic modal logic*, *Fundamenta Informaticae*, 173 (2-3), 191–215, 2020[cite: 1, 2].
 - **S. Lapenta, I. Leuştean**, *On the semisimple tensor product of MV-algebras*, *Fuzzy Sets and Systems*, 197, 140–151, 2020[cite: 1, 2].
@@ -19,9 +22,8 @@
 - **S. Lapenta, I. Leuştean**, *Scalar extensions for algebraic structures of Łukasiewicz logic*, *Journal of Pure and Applied Algebra*, 220: 1538–1553, 2016[cite: 1, 2].
 - **A. Di Nola, I. Leuştean**, *Łukasiewicz logic and Riesz spaces*, *Soft Computing*, 18(12): 2349–2363, 2014[cite: 1, 2].
 
----
 
-### Conference Proceedings
+#### Conference Proceedings
 - **I. Leuştean, B. Macovei**, *A Hybrid Many-Sorted Modal Logic with Nominal Terms*, RAMiCS 2026 (accepted)[cite: 1, 2].
 - **I. Leuştean, B. Macovei**, *Łukasiewicz Logic with Actions for Neural Networks training*, FROM 2025, EPTCS 427, pp. 44–58, 2025[cite: 1, 2].
 - **A. Nicolae, P. Irofti, I. Leuştean**, *OpenBSD formal driver verification with SeL4*, SecITC 2023, LNCS 14534, Springer, 2023[cite: 1, 2].
