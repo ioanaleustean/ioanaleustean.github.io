@@ -20,11 +20,9 @@
 
 ### 📄 Selected Recent Publications
 
-- **I. Leuştean, B. Macovei**, *A Hybrid Many-Sorted Modal Logic with Nominal Terms*, RAMiCS 2026 (accepted)[cite: 1, 2].
-- **I. Leuştean, B. Macovei**, *Łukasiewicz Logic with Actions for Neural Networks training*, FROM 2025, EPTCS 427, 2025, pp. 44–58[cite: 1, 2].
-- **A. Nicolae, P. Irofti, I. Leuştean**, *OpenBSD formal driver verification with SeL4*, SecITC 2023, LNCS 14534, Springer, 2023[cite: 1, 2].
-- **N. Moangă, I. Leuştean, T.F. Şerbănuţă**, *Many-Sorted Hybrid Modal Languages*, *Journal of Logical and Algebraic Methods in Programming* (JLAMP), 120, 100644, 2021[cite: 1, 2].
-- **S. Lapenta, I. Leuştean**, *On the semisimple tensor product of MV-algebras*, *Fuzzy Sets and Systems*, 197, 140–151, 2020[cite: 1, 2].
+- A.A. Oltean, B. Macovei, I. Leuștean, Formalizing a Many-Sorted Hybrid Polyadic Modal Logic in Lean, LPAR 2026 (accepted).
+- I. Leuştean, B. Macovei. Training as inference: Using hybrid modal logic for specifying neural networks. Journal of Logical and Algebraic Methods in Programming, Volume 151, 2026, https://doi.org/10.1016/j.jlamp.2026.101152.
+- I. Leuştean, B. Macovei. A Hybrid Many-Sorted Modal Logic with Nominal Terms. In: Fahrenberg, U., Fussner, W., Santocanale, L. (eds) Relational and Algebraic Methods in Computer Science. RAMICS 2026. Lecture Notes in Computer Science, vol 16526. Springer, Cham. https://doi.org/10.1007/978-3-032-22469-9_14
 
 [**Full List of Publications**](./publications.md). See also
 
