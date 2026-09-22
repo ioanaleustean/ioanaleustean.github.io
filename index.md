@@ -5,13 +5,10 @@
 [Department of Computer Science](https://cs.unibuc.ro/) | [Faculty of Mathematics and Computer Science](https://fmi.unibuc.ro/)  
 [University of Bucharest](https://unibuc.ro/), Romania
 
-📬 **Email:** `ioana.leustean@unibuc.ro`[cite: 1, 2]  
+📬 **Email:** `ioana.leustean@unibuc.ro` 
 🌐 **Webpage:** [cs.unibuc.ro/~ileustean](https://cs.unibuc.ro/~ileustean/) 
 
-[Google Scholar](https://scholar.google.ro/citations?user=i_cBamgAAAAJ&hl=en&oi=ao) | [ORCID](https://orcid.org/0000-0002-1884-6456) | [ResearchGate](https://www.researchgate.net/profile/Ioana-Leustean) | [DBLP](https://dblp.org/pid/43/1250.html)
-
 ---
-
 
 🎓  I am a Professor in the Department of Computer Science of the Faculty of Mathematics and Computer Science, University of Bucharest. Between February 2020 and February 2024, I served as the Dean of the Faculty of Mathematics and Computer Science. 
 
@@ -20,14 +17,8 @@
 
 [![CV PDF](https://img.shields.io/badge/Download_CV-PDF-red?logo=adobeacrobatreader)](./CV.pdf) *(not always updated)*
 
-### 🎓 Academic Leadership & Recognition
-- **Former Dean**, Faculty of Mathematics and Computer Science, University of Bucharest (Feb 2020 – Feb 2024)[cite: 1, 2]
-- **"Grigore Moisil" Prize** of the Romanian Academy (2008, awarded in 2010)[cite: 1, 2]
-- **Humboldt Fellow**, Technische Universität Darmstadt, Germany (2007–2009)[cite: 1, 2]
 
----
-
-### 📚 Selected Recent Publications
+### 📄 Selected Recent Publications
 
 - **I. Leuştean, B. Macovei**, *A Hybrid Many-Sorted Modal Logic with Nominal Terms*, RAMiCS 2026 (accepted)[cite: 1, 2].
 - **I. Leuştean, B. Macovei**, *Łukasiewicz Logic with Actions for Neural Networks training*, FROM 2025, EPTCS 427, 2025, pp. 44–58[cite: 1, 2].
@@ -43,15 +34,19 @@
 [![DBLP](https://img.shields.io/badge/DBLP-Publications-blue)](https://dblp.org/pid/43/1250.html)
 
 
-### PhD Students: **Bogdan Macovei**, **Natalia Moangă (Ozunu)**
+### 🎓 Ph.D. Students 
+- [**Bogdan Macovei**](https://bogdanmacovei.github.io/) *(Current)*
+- **Natalia Moangă (Ozunu)** *(Ph.D. 2022)*
+
+### 📚 [Teaching](./teaching.md) 
+I teach undergraduate and graduate courses at the Faculty of Mathematics and Computer Science. See details [**here**](./teaching.md).
 
 
-[**Teaching**](./teaching.md)
+### 📋 PC Member (recent)
 
+ [RAMiCS 2027](https://...) |  [FROM 2026](https://...) | [RAMiCS 2026](https://...)
 
-📋 **PC Member (recent):** [RAMiCS 2027](https://...) · [FROM 2026](https://...) · [RAMiCS 2026](https://...)
-
-## 🏆 Awards and Research Grants
+### 🏆 Awards and Research Grants
 
 - **2008:** *Grigore Moisil Prize* of the Romanian Academy (awarded in 2010).
 - **2015–2017:** Project Director, CNCS Grant *Modelling uncertainty in non-classical logics*.
