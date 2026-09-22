@@ -35,16 +35,16 @@
 
 
 ### 🎓 Ph.D. Students 
-- [**Bogdan Macovei**](https://bogdanmacovei.github.io/) *(Current)*
-- **Natalia Moangă (Ozunu)** *(Ph.D. 2022)*
 
-### 📚 [Teaching](./teaching.md) 
-I teach undergraduate and graduate courses at the Faculty of Mathematics and Computer Science. See details [**here**](./teaching.md).
+  &nbsp;&nbsp;&nbsp;&nbsp; [**Bogdan Macovei**](https://bogdanmacovei.github.io/) *(current)* &nbsp;|&nbsp; **Natalia Moangă (Ozunu)** *(Ph.D. 2022)*
+
+### 📚 Teaching 
+&nbsp;&nbsp;&nbsp;&nbsp; I teach undergraduate and graduate courses at the Faculty of Mathematics and Computer Science. [**See details here**](./teaching.md).
 
 
 ### 📋 PC Member (recent)
 
- [RAMiCS 2027](https://...) |  [FROM 2026](https://...) | [RAMiCS 2026](https://...)
+&nbsp;&nbsp;&nbsp;&nbsp; [RAMiCS 2027](https://...) |  [FROM 2026](https://...) | [RAMiCS 2026](https://...)
 
 ### 🏆 Awards and Research Grants
 
