@@ -46,7 +46,7 @@
 
 ### 📋 PC Member (recent)
 
-&nbsp;&nbsp;&nbsp;&nbsp; [RAMiCS 2027](https://...) |  [FROM 2026](https://...) | [RAMiCS 2026](https://...)
+&nbsp;&nbsp;&nbsp;&nbsp; RAMiCS 2027 |  [FROM 2026](https://from2026.uvt.ro/) | [RAMiCS 2026](https://ramics-conf.github.io/2026/)
 
 ### 🏆 Awards and Research Grants
 
