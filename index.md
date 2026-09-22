@@ -1,5 +1,5 @@
 
-### Ioana Leuştean
+
 
 <img src="IL.jpg" alt="Ioana Leuştean" style="width: 170px; border-radius: 8px; float: right; margin-left: 20px;">
 
