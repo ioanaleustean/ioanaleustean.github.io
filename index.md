@@ -1,7 +1,5 @@
 
----
-layout: home
----
+### Ioana Leuştean
 
 <img src="IL.jpg" alt="Ioana Leuştean" style="width: 170px; border-radius: 8px; float: right; margin-left: 20px;">
 
@@ -10,6 +8,7 @@ layout: home
 [University of Bucharest](https://unibuc.ro/)
 
 📬 **Email:** `ioana.leustean@unibuc.ro` 
+
 🌐 **Webpage:** [cs.unibuc.ro/~ileustean](https://cs.unibuc.ro/~ileustean/) 
 
 ---
