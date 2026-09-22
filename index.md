@@ -1,7 +1,12 @@
 
----
-layout: page
----
+<style>
+  .site-header {
+    display: none !important;
+  }
+  .page-content {
+    padding-top: 20px !important;
+  }
+</style>
 
 <img src="IL.jpg" alt="Ioana Leuştean" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; float: right; margin-left: 20px;">
 
