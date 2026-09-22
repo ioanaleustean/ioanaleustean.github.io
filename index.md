@@ -29,7 +29,7 @@ My research spans non-classical logics, algebraic logic, formal verification, an
 
 ---
 
-[![CV PDF](https://img.shields.io/badge/Download_CV-PDF-red?logo=adobeacrobatreader)](./CV.pdf)
+[![CV PDF](https://img.shields.io/badge/Download_CV-PDF-red?logo=adobeacrobatreader)](./CV.pdf) *(not always updated)*
 
 ## Advising & Research Team
 
