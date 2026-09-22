@@ -46,15 +46,18 @@
 
 ### 🎓 Ph.D. Students 
 
-  &nbsp;&nbsp;&nbsp;&nbsp; [**Bogdan Macovei**](https://bogdanmacovei.github.io/) *(current)* &nbsp;|&nbsp; **Natalia Moangă (Ozunu)** *(Ph.D. 2022)*
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**Bogdan Macovei**](https://bogdanmacovei.github.io/) (current) <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Natalia Moangă (Ozunu)** (Ph.D. 2022)
 
 ### 📚 Teaching 
-&nbsp;&nbsp;&nbsp;&nbsp; I teach undergraduate and graduate courses,  see details [**here**](./teaching.md).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I teach undergraduate and graduate courses,  see details [**here**](./teaching.md).
 
 
 ### 📋 PC Member (recent)
 
-&nbsp;&nbsp;&nbsp;&nbsp; RAMiCS 2027 |  [FROM 2026](https://from2026.uvt.ro/) | [RAMiCS 2026](https://ramics-conf.github.io/2026/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RAMiCS 2027 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [FROM 2026](https://from2026.uvt.ro/) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [RAMiCS 2026](https://ramics-conf.github.io/2026/)
 
 ### 🏆 Awards and Research Grants
 
