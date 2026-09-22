@@ -31,6 +31,12 @@ My research spans non-classical logics, algebraic logic, formal verification, an
 
 [![CV PDF](https://img.shields.io/badge/Download_CV-PDF-red?logo=adobeacrobatreader)](./CV.pdf) *(not always updated)*
 
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1884--6456-green?logo=orcid)](https://orcid.org/0000-0002-1884-6456)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.ro/citations?user=i_cBamgAAAAJ&hl=en&oi=ao)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CC99?logo=researchgate)](https://www.researchgate.net/profile/Ioana-Leustean)
+[![DBLP](https://img.shields.io/badge/DBLP-Publications-blue)](https://dblp.org/pid/43/1250.html)
+
+
 ## Advising & Research Team
 
 ### Current PhD Students
