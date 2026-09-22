@@ -1,7 +1,7 @@
 
 
 
-<img src="IL.jpg" alt="Ioana Leuştean" style="width: 170px; border-radius: 8px; float: right; margin-left: 20px;">
+<img src="IL.jpg" alt="Ioana Leuştean" style="width: 120px; border-radius: 50px; float: right; margin-left: 20px;">
 
 **Professor**, [Faculty of Mathematics and Computer Science](https://fmi.unibuc.ro/)
 
