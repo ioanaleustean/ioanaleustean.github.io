@@ -8,7 +8,7 @@
   }
 </style>
 
-<img src="ILnou.jpeg" alt="Ioana Leuştean" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; float: right; margin-left: 20px;">
+<img src="ILnou.jpeg" alt="Ioana Leuştean" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; float: right; margin-left: 20px;">
 
 # Ioana Leuştean
 
