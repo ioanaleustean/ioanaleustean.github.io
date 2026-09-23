@@ -16,9 +16,9 @@
 
 [University of Bucharest](https://unibuc.ro/)
 
-📬 **Email:** `ioana.leustean@unibuc.ro` 
+📬 `ioana.leustean@unibuc.ro` 
 
-🌐 **Webpage:** [cs.unibuc.ro/~ileustean](https://cs.unibuc.ro/~ileustean/) 
+🌐 [cs.unibuc.ro/~ileustean](https://cs.unibuc.ro/~ileustean/) 
 
 ---
 
