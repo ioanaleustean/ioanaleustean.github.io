@@ -27,7 +27,7 @@
   My current research focuses on logic for specification and verification, with a particular emphasis on many-sorted modal logic. This builds upon my extensive prior work in many-valued logic, an area I explored through diverse logical, algebraic, and probabilistic perspectives.
 
 
-[![CV PDF](https://img.shields.io/badge/Download_CV-PDF-red?logo=adobeacrobatreader)](https://ioanaleustean.github.io/cv/cv.pdf) *(not always updated)*
+[![CV PDF](https://img.shields.io/badge/Download_CV-PDF-red?logo=adobeacrobatreader)](https://ioanaleustean.github.io/cv/cv.pdf) 
 
 
 ### 📄 Selected Recent Publications
@@ -36,8 +36,8 @@
 - I. Leuştean, B. Macovei. Training as inference: Using hybrid modal logic for specifying neural networks. Journal of Logical and Algebraic Methods in Programming, Volume 151, 2026, https://doi.org/10.1016/j.jlamp.2026.101152.
 - I. Leuştean, B. Macovei. A Hybrid Many-Sorted Modal Logic with Nominal Terms. In: Fahrenberg, U., Fussner, W., Santocanale, L. (eds) Relational and Algebraic Methods in Computer Science. RAMICS 2026. Lecture Notes in Computer Science, vol 16526. Springer, Cham. https://doi.org/10.1007/978-3-032-22469-9_14
 
-### Handbook Chapter
-https://www.researchgate.net/publication/289958468_MV-algebras_and_Lukasiewicz_logic
+### 📖 Handbook Chapter
+A. Di Nola, I. Leuştean. [*Łukasiewicz logic and MV-algebras*](https://www.researchgate.net/publication/289958468_MV-algebras_and_Lukasiewicz_logic). In: P. Cintula, P. Hájek, C. Noguera (Eds.), *Handbook of Mathematical Fuzzy Logic (Volume 2)*, Studies in Logic 37, College Publications, London, 1–102, 2011.
 
 [**Full List of Publications**](./publication.md). See also
 
