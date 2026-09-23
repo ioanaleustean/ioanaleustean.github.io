@@ -34,6 +34,9 @@
 
 [![CV PDF](https://shields.io)](https://ioanaleustean.github.io/cv/cv.pdf) 
 
+[![CV PDF](https://shields.io)](https://ioanaleustean.github.io/cv/cv.pdf)
+
+
 
 ### 📄 Selected Recent Publications
 
