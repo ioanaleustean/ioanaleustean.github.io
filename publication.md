@@ -12,9 +12,9 @@ Ioana Leuştean
 
 
 ---
-###  Contributions in Handbooks
+###  Handbook Chapter
 
-- A. Di Nola, I. Leuştean. *Łukasiewicz logic and MV-algebras*. In: P. Cintula, P. Hájek, C. Noguera (Eds.), *Handbook of Mathematical Fuzzy Logic (Volume 2)*, Studies in Logic 37, College Publications, London, 1–102, 2011.
+- A. Di Nola, I. Leuştean. [*Łukasiewicz logic and MV-algebras*](https://www.researchgate.net/publication/289958468_MV-algebras_and_Lukasiewicz_logic). In: P. Cintula, P. Hájek, C. Noguera (Eds.), *Handbook of Mathematical Fuzzy Logic (Volume 2)*, Studies in Logic 37, College Publications, London, 1–102, 2011.
 
 
 ###  Journal Articles & Conference Proceedings
