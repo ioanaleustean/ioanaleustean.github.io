@@ -32,10 +32,7 @@
   My current research focuses on logic for specification and verification, with a particular emphasis on many-sorted modal logic. This builds upon my extensive prior work in many-valued logic, an area I explored through diverse logical, algebraic, and probabilistic perspectives.
 
 
-[![CV PDF](https://shields.io)](https://ioanaleustean.github.io/cv/cv.pdf) 
-
-[![CV PDF](https://shields.io)](https://ioanaleustean.github.io/cv/cv.pdf)
-
+[![CV PDF](https://img.shields.io/badge/CV-PDF-red)](https://ioanaleustean.github.io/cv/cv.pdf) 
 
 
 ### 📄 Selected Recent Publications
