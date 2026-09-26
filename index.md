@@ -25,8 +25,6 @@
 ---
 
 
-<br><br>
-
   I am a Professor in the Department of Computer Science of the Faculty of Mathematics and Computer Science, University of Bucharest. Between February 2020 and February 2024, I served as the Dean of the Faculty of Mathematics and Computer Science. 
 
   My current research focuses on logic for specification and verification, with a particular emphasis on many-sorted modal logic. This builds upon my extensive prior work in many-valued logic, an area I explored through diverse logical, algebraic, and probabilistic perspectives.
