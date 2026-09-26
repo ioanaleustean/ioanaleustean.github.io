@@ -20,7 +20,7 @@
 
 🌐 [cs.unibuc.ro/~ileustean](https://cs.unibuc.ro/~ileustean/) (*official*)
 
-🌐 [ioanaleustean.github.io](https://ioanaleustean.github.io/) (*personal*)
+<!-- 🌐 [ioanaleustean.github.io](https://ioanaleustean.github.io/) (*personal*) -->
 
 ---
 
