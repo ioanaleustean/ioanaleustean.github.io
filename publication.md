@@ -19,7 +19,7 @@ Ioana Leuştean
 
 ###  Journal Articles & Conference Proceedings
 
-- A.A. Oltean, B. Macovei, I. Leuștean, Formalizing a Many-Sorted Hybrid Polyadic Modal Logic in Lean, LPAR 2026 (accepted).
+- A.A. Oltean, B. Macovei, I. Leuștean, Formalizing a Many-Sorted Hybrid Polyadic Modal Logic in Lean, LPAR 2026 (accepted)[arXiv:2606.27041](https://arxiv.org/abs/2606.27041).
 - I. Leuştean, B. Macovei. *Training as inference: Using hybrid modal logic for specifying neural networks*.
 Journal of Logical and Algebraic Methods in Programming, Volume 151, 2026, https://doi.org/10.1016/j.jlamp.2026.101152.
 - I. Leuştean, B. Macovei. *A Hybrid Many-Sorted Modal Logic with Nominal Terms*. In: Fahrenberg, U., Fussner, W., Santocanale, L. (eds) Relational and Algebraic Methods in Computer Science. RAMICS 2026. Lecture Notes in Computer Science, vol 16526. Springer, Cham. https://doi.org/10.1007/978-3-032-22469-9_14
